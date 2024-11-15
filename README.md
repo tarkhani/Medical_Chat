@@ -1,0 +1,1 @@
+This project implements a LoRA-based fine-tuning of the Phi-3.5-mini-instruct model for healthcare natural language processing tasks. Leveraging the ChatDoctor-HealthCareMagic-100k dataset, the model is trained to handle patient-doctor dialogues, providing accurate and contextually aware responses.
